@@ -4,8 +4,10 @@ This repository accompanies my master’s thesis and demonstrates experiments us
 
 ![Skjermbilde 2025-05-11 215409](https://github.com/user-attachments/assets/e3ef0d58-bbae-481b-b227-1a6ea6e3f8fb)
 
-<img align="left" src="https://github.com/user-attachments/assets/484ec9d4-a3b1-45d9-b4c3-11009c6baa1f" alt="Lund 50 Segmentation" width="48%"/>
-<img align="right" src="https://github.com/user-attachments/assets/e3ef0d58-bbae-481b-b227-1a6ea6e3f8fb" alt="Lund 1196 Segmentation" width="48%"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/484ec9d4-a3b1-45d9-b4c3-11009c6baa1f" alt="Lund 50" width="48%" style="margin-right: 1%;">
+  <img src="https://github.com/user-attachments/assets/e3ef0d58-bbae-481b-b227-1a6ea6e3f8fb" alt="Lund 1196" width="48%">
+</p>
 
 ## Implementation Note
 All key features and techniques described in the Methodology section of my thesis—such as lazy loading for memory efficiency, multi-GPU distributed training, chunk-based feature extraction, and multiple segmentation options (including HDBSCAN, KNN graph, and KMeans clustering)—are fully implemented in this codebase. This repository contains the actual code used for large-scale experiments and results reported in the thesis.
