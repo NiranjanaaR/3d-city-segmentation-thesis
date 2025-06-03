@@ -1,9 +1,5 @@
 **CityGaussian_v2 + SAGA:** Thesis Experiments
 This repository accompanies my master’s thesis and demonstrates experiments using CityGaussian_v2 and SAGA (Segment Any Gaussian).
-![Skjermbilde 2025-05-11 175514](https://github.com/user-attachments/assets/484ec9d4-a3b1-45d9-b4c3-11009c6baa1f)
-
-![Skjermbilde 2025-05-11 215409](https://github.com/user-attachments/assets/e3ef0d58-bbae-481b-b227-1a6ea6e3f8fb)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/484ec9d4-a3b1-45d9-b4c3-11009c6baa1f" alt="Lund 50" width="48%" style="margin-right: 1%;">
   <img src="https://github.com/user-attachments/assets/e3ef0d58-bbae-481b-b227-1a6ea6e3f8fb" alt="Lund 1196" width="48%">
