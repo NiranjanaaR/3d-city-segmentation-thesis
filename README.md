@@ -18,6 +18,5 @@ All 3D results can be visualized using the [PlayCanvas Model Viewer](https://pla
 
 
 Acknowledgements
-This project builds on CityGaussian_v2 and SAGA.
 AI tools such as ChatGPT and Grammarly were used for language and code refinement.
 
